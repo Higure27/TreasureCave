@@ -1,0 +1,1114 @@
+﻿Log file open, 07/11/20 17:35:54
+LogInit: Display: Running engine for game: TCave001
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.174146
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13594126
+LogInit: Engine Version: 4.25.1-13594126+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1060
+LogInit: Compiled (64-bit): Jun  2 2020 02:10:36
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -EpicPortal -epicusername=Higure -epicuserid=70dc3d6c7774439bb521a8625c5e4bd7 -epiclocale=en
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.11-23.35.55:320][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.11-23.35.55:320][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.11-23.35.55:320][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Engine.ini]
+[2020.07.11-23.35.55:320][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.11-23.35.55:320][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Engine.ini]
+[2020.07.11-23.35.55:320][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Engine.ini]
+[2020.07.11-23.35.55:320][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.11-23.35.55:320][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.11-23.35.55:320][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.11-23.35.55:320][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.11-23.35.55:320][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.11-23.35.55:320][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.11-23.35.55:320][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.11-23.35.55:320][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.11-23.35.55:320][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.11-23.35.55:320][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.11-23.35.55:320][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.11-23.35.55:320][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.11-23.35.55:320][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.11-23.35.55:320][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.07.11-23.35.55:320][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Engine.ini]
+[2020.07.11-23.35.55:320][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.11-23.35.55:320][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.11-23.35.55:320][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.11-23.35.55:320][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.11-23.35.55:321][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.11-23.35.55:321][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.11-23.35.55:321][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.07.11-23.35.55:321][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.11-23.35.55:321][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.11-23.35.55:321][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.11-23.35.55:321][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.11-23.35.55:321][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.11-23.35.55:321][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.11-23.35.55:321][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Engine.ini]
+[2020.07.11-23.35.55:321][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Engine.ini]
+[2020.07.11-23.35.55:326][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.11-23.35.55:326][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.11-23.35.55:327][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-23.35.55:328][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.11-23.35.55:328][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.11-23.35.55:328][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-23.35.55:328][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.11-23.35.55:328][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.11-23.35.55:328][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.11-23.35.55:328][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.07.11-23.35.55:328][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.07.11-23.35.55:328][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.07.11-23.35.55:328][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.07.11-23.35.55:328][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.11-23.35.55:328][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.11-23.35.55:328][  0]LogHAL: Display: Platform has ~ 16 GB [17134735360 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.11-23.35.55:328][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.11-23.35.55:328][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-23.35.55:328][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.11-23.35.55:328][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.11-23.35.55:328][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-23.35.55:328][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.11-23.35.55:328][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-23.35.55:328][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.11-23.35.55:328][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.11-23.35.55:328][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.11-23.35.55:328][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.11-23.35.55:328][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.11-23.35.55:328][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.11-23.35.55:328][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.11-23.35.55:328][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.11-23.35.55:328][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.11-23.35.55:329][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-23.35.55:329][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.07.11-23.35.55:330][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.11-23.35.55:331][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.11-23.35.55:331][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.11-23.35.55:331][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.07.11-23.35.55:331][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Config/Windows/Engine.ini]
+[2020.07.11-23.35.55:331][  0]LogInit: Computer: DESKTOP-6S89NFO
+[2020.07.11-23.35.55:331][  0]LogInit: User: Kevan
+[2020.07.11-23.35.55:331][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.07.11-23.35.55:331][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.11-23.35.55:331][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.07.11-23.35.55:331][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.11-23.35.55:331][  0]LogMemory: Process Physical Memory: 113.17 MB used, 113.17 MB peak
+[2020.07.11-23.35.55:331][  0]LogMemory: Process Virtual Memory: 96.44 MB used, 96.44 MB peak
+[2020.07.11-23.35.55:331][  0]LogMemory: Physical Memory: 8991.66 MB used,  7349.30 MB free, 16340.96 MB total
+[2020.07.11-23.35.55:331][  0]LogMemory: Virtual Memory: 5109.78 MB used,  134212616.00 MB free, 134217728.00 MB total
+[2020.07.11-23.35.55:339][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.11-23.35.55:390][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.07.11-23.35.55:391][  0]LogInit: Using OS detected language (en-US).
+[2020.07.11-23.35.55:391][  0]LogInit: Using OS detected locale (en-US).
+[2020.07.11-23.35.55:395][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.07.11-23.35.55:612][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.11-23.35.55:735][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.11-23.35.55:735][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.11-23.35.56:088][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.11-23.35.56:088][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.07.11-23.35.56:088][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.07.11-23.35.56:088][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.11-23.35.56:168][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.07.11-23.35.56:168][  0]LogD3D11RHI:       2987/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.07.11-23.35.56:172][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.11-23.35.56:172][  0]LogD3D11RHI:       0/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.11-23.35.56:172][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.11-23.35.56:181][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.11-23.35.56:181][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.11-23.35.56:181][  0]LogWindows: EnumDisplayDevices:
+[2020.07.11-23.35.56:181][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2020.07.11-23.35.56:182][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2020.07.11-23.35.56:182][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.07.11-23.35.56:183][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.07.11-23.35.56:183][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.07.11-23.35.56:183][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.07.11-23.35.56:183][  0]LogD3D11RHI:   Driver Version: 442.94 (internal:26.21.14.4294, unified:442.94)
+[2020.07.11-23.35.56:183][  0]LogD3D11RHI:      Driver Date: 4-8-2020
+[2020.07.11-23.35.56:183][  0]LogRHI: Texture pool is 2090 MB (70% of 2987 MB)
+[2020.07.11-23.35.56:239][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.07.11-23.35.56:241][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.07.11-23.35.56:241][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.11-23.35.56:241][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.07.11-23.35.56:243][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061082).
+[2020.07.11-23.35.56:262][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.07.11-23.35.57:172][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.07.11-23.35.57:194][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.07.11-23.35.57:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.07.11-23.35.57:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.07.11-23.35.57:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.07.11-23.35.57:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.07.11-23.35.57:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.11-23.35.57:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.07.11-23.35.57:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.11-23.35.57:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.07.11-23.35.57:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.07.11-23.35.57:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.07.11-23.35.57:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.07.11-23.35.57:233][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.07.11-23.35.57:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.11-23.35.57:254][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.07.11-23.35.57:264][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.07.11-23.35.57:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.07.11-23.35.57:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.07.11-23.35.57:295][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.07.11-23.35.57:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.07.11-23.35.57:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.07.11-23.35.57:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.07.11-23.35.57:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.07.11-23.35.57:351][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.11-23.35.57:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.07.11-23.35.57:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.07.11-23.35.57:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.07.11-23.35.57:382][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.11-23.35.57:391][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.11-23.35.57:458][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Intermediate/Shaders/WorkingDirectory/212/).
+[2020.07.11-23.35.57:459][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kevan/AppData/Local/Temp/UnrealShaderWorkingDir/86FDB3EE4565FF6F3FEF76A809B6B35B/'.
+[2020.07.11-23.35.57:459][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.11-23.35.57:459][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.11-23.35.57:459][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.11-23.35.58:340][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.11-23.35.58:394][  0]LogDerivedDataCache: Loaded boot cache 0.05s 76MB C:/Users/Kevan/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.07.11-23.35.58:394][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kevan/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.07.11-23.35.58:394][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.11-23.35.58:394][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.11-23.35.58:394][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.11-23.35.58:394][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.11-23.35.58:406][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.11-23.35.58:406][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.11-23.35.58:406][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.11-23.35.58:407][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kevan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.11-23.35.58:407][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.11-23.35.58:407][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.11-23.35.58:463][  0]LogSlate: Using FreeType 2.10.0
+[2020.07.11-23.35.58:464][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.11-23.35.58:497][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2020.07.11-23.35.58:778][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.11-23.35.59:708][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.11-23.35.59:708][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.11-23.35.59:708][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.11-23.35.59:708][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.11-23.35.59:708][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.11-23.35.59:729][  0]LogNetVersion: TCave001 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3195499608)
+[2020.07.11-23.36.00:338][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000227C82B61C0), frame # 0
+[2020.07.11-23.36.00:338][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000227CCF06AC0), frame # 0
+[2020.07.11-23.36.00:339][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000227CBF74A00), frame # 0
+[2020.07.11-23.36.03:723][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 3.375450 seconds
+[2020.07.11-23.36.03:731][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.07.11-23.36.03:732][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.07.11-23.36.03:732][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.11-23.36.04:426][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.11-23.36.05:805][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.11-23.36.05:897][  0]SourceControl: Source control is disabled
+[2020.07.11-23.36.05:897][  0]SourceControl: Source control is disabled
+[2020.07.11-23.36.05:901][  0]SourceControl: Source control is disabled
+[2020.07.11-23.36.05:904][  0]SourceControl: Source control is disabled
+[2020.07.11-23.36.05:914][  0]SourceControl: Source control is disabled
+[2020.07.11-23.36.06:558][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.11-23.36.06:580][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.11-23.36.06:580][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.11-23.36.06:634][  0]LogOcInput: OculusInput pre-init called
+[2020.07.11-23.36.06:645][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.07.11-23.36.06:645][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.07.11-23.36.06:721][  0]LogEngine: Initializing Engine...
+[2020.07.11-23.36.06:722][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.11-23.36.06:722][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.07.11-23.36.06:723][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.07.11-23.36.06:901][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.11-23.36.06:909][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.11-23.36.06:909][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000227CFC41C00), frame # 0
+[2020.07.11-23.36.06:909][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000227CFC7D6C0), frame # 0
+[2020.07.11-23.36.06:914][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.11-23.36.06:914][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.11-23.36.06:914][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.11-23.36.06:914][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.11-23.36.06:914][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.11-23.36.06:914][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.11-23.36.06:914][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.11-23.36.06:914][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.11-23.36.06:914][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.11-23.36.06:914][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.11-23.36.06:928][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.11-23.36.06:928][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.07.11-23.36.07:027][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.07.11-23.36.07:027][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.11-23.36.07:030][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.11-23.36.07:030][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.11-23.36.07:031][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.11-23.36.07:032][  0]LogInit: FAudioDevice initialized.
+[2020.07.11-23.36.07:032][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.11-23.36.07:158][  0]LogDerivedDataCache: Saved boot cache 0.13s 76MB C:/Users/Kevan/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.07.11-23.36.07:158][  0]LogInit: Texture streaming: Enabled
+[2020.07.11-23.36.07:178][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.11-23.36.07:179][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.07.11-23.36.07:193][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.07.11-23.36.07:211][  0]LogInit: Transaction tracking system initialized
+[2020.07.11-23.36.07:235][  0]BlueprintLog: New page: Editor Load
+[2020.07.11-23.36.07:468][  0]LocalizationService: Localization service is disabled
+[2020.07.11-23.36.07:702][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/' took 0.00s
+[2020.07.11-23.36.07:702][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.11-23.36.07:702][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.11-23.36.08:170][  0]SourceControl: Source control is disabled
+[2020.07.11-23.36.08:170][  0]LogUnrealEdMisc: Loading editor; pre map load, took 18.653
+[2020.07.11-23.36.08:769][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Program Files/Epic Games/UE_4.25/FeaturePacks/StarterContent.upack)
+[2020.07.11-23.36.08:898][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.07.11-23.36.09:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.07.11-23.36.09:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.07.11-23.36.10:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.07.11-23.36.10:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.07.11-23.36.10:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.07.11-23.36.10:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.07.11-23.36.10:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.07.11-23.36.10:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.07.11-23.36.10:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.07.11-23.36.10:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.07.11-23.36.10:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.07.11-23.36.10:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.07.11-23.36.10:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.07.11-23.36.11:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.07.11-23.36.11:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.07.11-23.36.11:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.07.11-23.36.11:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.07.11-23.36.11:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Fire01.uasset"
+[2020.07.11-23.36.11:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.07.11-23.36.11:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.07.11-23.36.11:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.07.11-23.36.11:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Light01.uasset"
+[2020.07.11-23.36.11:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.07.11-23.36.11:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Light02.uasset"
+[2020.07.11-23.36.11:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.07.11-23.36.11:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.07.11-23.36.11:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.07.11-23.36.11:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.07.11-23.36.11:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.07.11-23.36.12:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.07.11-23.36.12:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.07.11-23.36.12:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.07.11-23.36.12:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.07.11-23.36.12:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Steam01.uasset"
+[2020.07.11-23.36.12:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.07.11-23.36.12:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.07.11-23.36.12:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.07.11-23.36.12:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.07.11-23.36.12:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.07.11-23.36.12:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.07.11-23.36.12:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.07.11-23.36.12:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.07.11-23.36.12:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.07.11-23.36.12:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.07.11-23.36.12:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.07.11-23.36.13:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.07.11-23.36.13:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.07.11-23.36.13:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.07.11-23.36.13:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.07.11-23.36.13:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.07.11-23.36.13:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.07.11-23.36.16:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.07.11-23.36.16:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.07.11-23.36.16:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.07.11-23.36.16:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.07.11-23.36.16:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.07.11-23.36.16:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Maps/StarterMap.umap"
+[2020.07.11-23.36.17:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.07.11-23.36.17:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.07.11-23.36.17:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.07.11-23.36.17:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.07.11-23.36.17:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.07.11-23.36.17:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.07.11-23.36.17:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.07.11-23.36.17:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.07.11-23.36.17:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.07.11-23.36.17:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.07.11-23.36.17:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.07.11-23.36.17:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.07.11-23.36.17:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.07.11-23.36.17:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.07.11-23.36.17:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.07.11-23.36.17:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.07.11-23.36.17:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.07.11-23.36.17:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.07.11-23.36.17:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.07.11-23.36.17:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.07.11-23.36.17:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.07.11-23.36.17:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.07.11-23.36.17:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.07.11-23.36.17:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.07.11-23.36.17:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.07.11-23.36.17:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.07.11-23.36.17:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.07.11-23.36.17:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.07.11-23.36.17:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.07.11-23.36.17:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.07.11-23.36.17:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.07.11-23.36.17:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.07.11-23.36.17:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.07.11-23.36.17:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.07.11-23.36.17:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.07.11-23.36.17:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.07.11-23.36.17:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.07.11-23.36.17:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.07.11-23.36.17:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.07.11-23.36.17:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.07.11-23.36.17:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.07.11-23.36.18:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.07.11-23.36.18:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.07.11-23.36.18:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.07.11-23.36.18:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.07.11-23.36.18:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.07.11-23.36.18:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.07.11-23.36.18:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.07.11-23.36.18:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.07.11-23.36.18:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.07.11-23.36.18:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.07.11-23.36.18:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.07.11-23.36.18:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.07.11-23.36.18:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.07.11-23.36.18:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.07.11-23.36.18:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.07.11-23.36.18:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.07.11-23.36.18:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.07.11-23.36.18:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.07.11-23.36.18:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.07.11-23.36.18:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.07.11-23.36.18:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.07.11-23.36.18:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.07.11-23.36.18:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.07.11-23.36.18:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.07.11-23.36.18:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/SM_Door.uasset"
+[2020.07.11-23.36.18:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.07.11-23.36.18:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.07.11-23.36.18:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.07.11-23.36.18:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.07.11-23.36.18:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.07.11-23.36.18:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.07.11-23.36.18:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.07.11-23.36.18:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.07.11-23.36.18:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.07.11-23.36.18:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.07.11-23.36.18:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.07.11-23.36.18:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.07.11-23.36.19:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.07.11-23.36.19:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.07.11-23.36.19:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.07.11-23.36.19:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.07.11-23.36.19:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.07.11-23.36.19:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.07.11-23.36.19:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.07.11-23.36.19:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.07.11-23.36.19:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.07.11-23.36.19:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.07.11-23.36.19:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.07.11-23.36.19:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.07.11-23.36.19:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.07.11-23.36.19:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.07.11-23.36.19:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.07.11-23.36.19:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.07.11-23.36.19:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.07.11-23.36.19:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.07.11-23.36.19:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.07.11-23.36.19:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.07.11-23.36.19:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.07.11-23.36.19:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.07.11-23.36.19:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.07.11-23.36.19:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.07.11-23.36.19:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.07.11-23.36.19:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.07.11-23.36.19:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.07.11-23.36.19:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.07.11-23.36.19:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.07.11-23.36.19:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.07.11-23.36.19:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.07.11-23.36.19:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.07.11-23.36.19:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.07.11-23.36.19:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.07.11-23.36.19:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.07.11-23.36.20:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.07.11-23.36.21:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.07.11-23.36.21:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.07.11-23.36.22:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.07.11-23.36.22:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.07.11-23.36.22:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.07.11-23.36.23:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.07.11-23.36.24:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.07.11-23.36.24:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.07.11-23.36.24:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.07.11-23.36.24:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.07.11-23.36.25:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.07.11-23.36.25:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.07.11-23.36.25:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.07.11-23.36.25:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.07.11-23.36.25:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.07.11-23.36.25:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.07.11-23.36.25:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.07.11-23.36.26:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.07.11-23.36.26:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.07.11-23.36.26:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.07.11-23.36.26:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.07.11-23.36.26:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.07.11-23.36.27:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.07.11-23.36.27:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.07.11-23.36.29:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.07.11-23.36.29:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.07.11-23.36.30:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.07.11-23.36.30:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.07.11-23.36.31:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.07.11-23.36.32:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.07.11-23.36.32:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.07.11-23.36.33:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.07.11-23.36.33:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.07.11-23.36.33:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.07.11-23.36.33:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.07.11-23.36.33:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.07.11-23.36.33:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.07.11-23.36.34:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.07.11-23.36.34:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.07.11-23.36.34:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.07.11-23.36.34:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.07.11-23.36.34:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.07.11-23.36.34:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.07.11-23.36.34:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.07.11-23.36.35:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.07.11-23.36.35:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.07.11-23.36.36:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.07.11-23.36.37:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.07.11-23.36.37:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.07.11-23.36.37:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.07.11-23.36.38:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.07.11-23.36.38:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.07.11-23.36.38:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.07.11-23.36.39:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.07.11-23.36.40:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.07.11-23.36.40:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.07.11-23.36.41:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.07.11-23.36.41:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.07.11-23.36.41:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.07.11-23.36.41:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.07.11-23.36.42:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.07.11-23.36.42:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.07.11-23.36.43:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.07.11-23.36.43:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.07.11-23.36.44:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.07.11-23.36.44:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.07.11-23.36.45:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.07.11-23.36.45:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.07.11-23.36.45:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.07.11-23.36.46:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.07.11-23.36.46:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.07.11-23.36.47:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.07.11-23.36.47:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.07.11-23.36.48:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.07.11-23.36.48:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.07.11-23.36.48:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.07.11-23.36.48:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.07.11-23.36.48:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.07.11-23.36.48:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.07.11-23.36.48:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.07.11-23.36.48:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.07.11-23.36.48:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.07.11-23.36.48:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.07.11-23.36.49:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.07.11-23.36.49:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.07.11-23.36.49:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.07.11-23.36.49:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.07.11-23.36.49:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.07.11-23.36.49:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.07.11-23.36.49:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.07.11-23.36.50:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.07.11-23.36.50:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.07.11-23.36.50:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.07.11-23.36.51:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.07.11-23.36.51:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.07.11-23.36.52:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.07.11-23.36.52:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.07.11-23.36.52:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.07.11-23.36.53:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.07.11-23.36.53:735][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.07.11-23.36.54:372][  0]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Floor_400x400149460554A7CFDEDBE710F8FA3EA5D66.tmp' to '../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.07.11-23.36.54:616][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2020.07.11-23.36.54:618][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.11-23.36.54:619][  0]LightingResults: New page: Lighting Build
+[2020.07.11-23.36.54:620][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-23.36.54:620][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-23.36.54:621][  0]MapCheck: New page: Map Check
+[2020.07.11-23.36.54:621][  0]LightingResults: New page: Lighting Build
+[2020.07.11-23.36.54:638][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000227CFC41C00), frame # 0
+[2020.07.11-23.36.54:638][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000227CFC7D6C0), frame # 0
+[2020.07.11-23.36.54:639][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.07.11-23.36.55:198][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.07.11-23.36.55:198][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000227BEA48200), frame # 0
+[2020.07.11-23.36.55:198][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000227BE94DBC0), frame # 0
+[2020.07.11-23.36.55:205][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.11-23.36.55:215][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.07.11-23.36.55:216][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.11-23.36.55:216][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2020.07.11-23.36.55:216][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.598
+[2020.07.11-23.36.55:218][  0]LogUnrealEdMisc: Total Editor Startup Time, took 65.702
+[2020.07.11-23.36.55:349][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-23.36.55:356][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-23.36.55:363][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-23.36.55:371][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-23.36.55:383][  0]LogCollectionManager: Loaded 0 collections in 0.001672 seconds
+[2020.07.11-23.36.55:742][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Collections/' took 0.00s
+[2020.07.11-23.36.55:742][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/Developers/Kevan/Collections/' took 0.00s
+[2020.07.11-23.36.55:742][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/Collections/' took 0.00s
+[2020.07.11-23.36.55:742][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 3427 classes and 821 folders.
+[2020.07.11-23.36.55:745][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.11-23.36.55:899][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.07.11-23.36.55:901][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2020.07.11-23.36.55:940][  0]LogSlate: Took 0.000381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.11-23.36.55:943][  0]LogSlate: Took 0.000401 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.11-23.36.55:949][  0]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.11-23.36.56:012][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.07.11-23.36.56:054][  0]LogSlate: Took 0.000377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.11-23.36.56:114][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.07.11-23.36.56:114][  0]LogLoad: (Engine Initialization) Total time: 66.60 seconds
+[2020.07.11-23.36.56:114][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.11-23.36.56:140][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2020.07.11-23.36.56:141][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.07.11-23.36.56:215][  0]LogAssetRegistry: Asset discovery search completed in 57.7201 seconds
+[2020.07.11-23.36.56:220][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000021 seconds (updated 0 objects)
+[2020.07.11-23.36.56:331][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.11-23.38.19:971][417]LogSlate: Window 'New Level' being destroyed
+[2020.07.11-23.38.19:979][417]LightingResults: New page: Lighting Build
+[2020.07.11-23.38.20:016][417]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-23.38.20:016][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-23.38.20:016][417]MapCheck: New page: Map Check
+[2020.07.11-23.38.20:016][417]LightingResults: New page: Lighting Build
+[2020.07.11-23.38.20:027][417]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000227BEA48200), frame # 417
+[2020.07.11-23.38.20:027][417]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000227BE94DBC0), frame # 417
+[2020.07.11-23.38.20:028][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.07.11-23.38.20:040][417]LogAIModule: Creating AISystem for world Untitled
+[2020.07.11-23.38.20:040][417]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000227FD930800), frame # 417
+[2020.07.11-23.38.20:040][417]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000227BE8C51C0), frame # 417
+[2020.07.11-23.38.20:043][417]LoadErrors: New page: New Map
+[2020.07.11-23.39.02:421][740]LogSlate: Window 'Save Level As' being destroyed
+[2020.07.11-23.39.02:459][740]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.11-23.39.02:480][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level001" FILE="../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/Maps/Level001.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.11-23.39.02:490][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.07.11-23.39.02:495][740]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Level0017164971C4EB78AB9747D228A91F3B1DC.tmp' to '../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/Maps/Level001.umap'
+[2020.07.11-23.39.02:514][740]LogFileHelpers: Saving map 'Level001' took 0.061
+[2020.07.11-23.39.02:514][740]Cmd: MAP LOAD FILE="../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/Maps/Level001.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.11-23.39.02:536][740]LightingResults: New page: Lighting Build
+[2020.07.11-23.39.02:536][740]LoadErrors: New page: Loading map: Level001.umap
+[2020.07.11-23.39.02:536][740]LogWorld: UWorld::CleanupWorld for Level001, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-23.39.02:536][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-23.39.02:536][740]MapCheck: New page: Map Check
+[2020.07.11-23.39.02:536][740]LightingResults: New page: Lighting Build
+[2020.07.11-23.39.02:545][740]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000227BE8C51C0), frame # 1740
+[2020.07.11-23.39.02:545][740]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000227FD930800), frame # 1740
+[2020.07.11-23.39.02:546][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.07.11-23.39.02:549][740]LogAIModule: Creating AISystem for world Level001
+[2020.07.11-23.39.02:549][740]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000227FD931200), frame # 1740
+[2020.07.11-23.39.02:549][740]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000227C9844F40), frame # 1740
+[2020.07.11-23.39.02:554][740]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.11-23.39.02:564][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.07.11-23.39.02:579][740]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.11-23.39.02:579][740]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.065ms to complete.
+[2020.07.11-23.39.02:579][740]LogFileHelpers: Loading map 'Level001' took 0.065
+[2020.07.11-23.39.02:582][740]AssetCheck: New page: Asset Save: Level001
+[2020.07.11-23.39.02:582][740]LogContentValidation: Display: Validating World /Game/Maps/Level001.Level001
+[2020.07.11-23.39.04:941][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level001" FILE="../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/Maps/Level001.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.11-23.39.04:952][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.07.11-23.39.04:959][881]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Level0018B5F58754856B83ADBB0E2A05104BFFD.tmp' to '../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/Maps/Level001.umap'
+[2020.07.11-23.39.04:975][881]AssetCheck: New page: Asset Save: Level001
+[2020.07.11-23.39.04:975][881]LogContentValidation: Display: Validating World /Game/Maps/Level001.Level001
+[2020.07.11-23.39.19:673][730]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.11-23.39.19:680][730]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.11-23.39.21:142][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level001" FILE="../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/Maps/Level001.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.11-23.39.21:152][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.07.11-23.39.21:158][816]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Level0015132148D4D1A4F34797340A3DD115A09.tmp' to '../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/Maps/Level001.umap'
+[2020.07.11-23.39.21:175][816]AssetCheck: New page: Asset Save: Level001
+[2020.07.11-23.39.21:176][816]LogContentValidation: Display: Validating World /Game/Maps/Level001.Level001
+[2020.07.11-23.39.25:694][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.07.11-23.54.37:009][895]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a288555c-fb67-4f83-957e-1bf70fb4b0ec}.
+[2020.07.11-23.54.37:009][895]LogTemp: Resetting audio stream to device id 
+[2020.07.11-23.54.37:066][895]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.11-23.54.37:066][895]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-00.11.46:169][972]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{112807b7-aa86-4fd5-b645-a992d80462c7}.
+[2020.07.12-00.11.46:169][972]LogTemp: Resetting audio stream to device id 
+[2020.07.12-00.11.46:208][972]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-00.11.46:208][972]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-00.13.50:859][984]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.07.12-00.14.33:483][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.07.12-00.14.33:852][962]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Level001_Auto138DB915848E7C5B94C84F891AA54C574.tmp' to '../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Autosaves/Game/Maps/Level001_Auto1.umap'
+[2020.07.12-00.14.33:856][962]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level001' took 0.382
+[2020.07.12-00.14.33:856][962]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.382
+[2020.07.12-00.18.45:150][829]Cmd: MODE GRID=0
+[2020.07.12-00.18.46:419][904]Cmd: MODE GRID=1
+[2020.07.12-00.19.24:683][193]Cmd: TRANSACTION UNDO
+[2020.07.12-00.19.24:683][193]LogEditorTransaction: Undo Move Actors
+[2020.07.12-00.19.25:286][224]Cmd: TRANSACTION UNDO
+[2020.07.12-00.19.25:286][224]LogEditorTransaction: Undo Move Actors
+[2020.07.12-00.19.25:828][256]Cmd: TRANSACTION UNDO
+[2020.07.12-00.19.25:828][256]LogEditorTransaction: Undo Move Actors
+[2020.07.12-00.19.33:044][687]LogSlate: Took 0.000337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.12-00.19.52:216][833]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2020.07.12-00.23.19:464][261]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.07.12-00.23.47:915][961]LogEditorViewport: Clicking Background
+[2020.07.12-00.24.03:542][896]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2020.07.12-00.24.10:329][303]LogEditorViewport: Clicking Background
+[2020.07.12-00.24.19:425][846]Cmd: EDCALLBACK SURFPROPS
+[2020.07.12-00.25.18:377][367]LogEditorViewport: Clicking Background
+[2020.07.12-00.25.29:472][ 31]LogEditorViewport: Clicking Background
+[2020.07.12-00.26.21:926][  3]LogEditorViewport: Clicking Background
+[2020.07.12-00.26.58:156][164]Cmd: EDCALLBACK SURFPROPS
+[2020.07.12-00.26.59:997][273]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush5)
+[2020.07.12-00.27.11:540][965]Cmd: TRANSACTION UNDO
+[2020.07.12-00.27.11:540][965]LogEditorTransaction: Undo Move Actors
+[2020.07.12-00.27.11:545][965]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.07.12-00.27.11:545][965]LogGeometryMode: Warning: Unable to resolve BoxBrush5 Brush in new BSP, see above
+[2020.07.12-00.27.11:545][965]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.07.12-00.28.05:423][186]LogEditorViewport: Clicking Background
+[2020.07.12-00.28.05:573][195]LogEditorViewport: Clicking Background
+[2020.07.12-00.28.39:320][218]LogEditorViewport: Clicking Background
+[2020.07.12-00.28.39:503][229]LogEditorViewport: Clicking Background
+[2020.07.12-00.28.48:956][791]LogEditorViewport: Clicking Background
+[2020.07.12-00.30.55:376][ 13]LogEditorViewport: Clicking Background
+[2020.07.12-00.30.56:206][ 63]Cmd: TRANSACTION UNDO
+[2020.07.12-00.30.56:206][ 63]LogEditorTransaction: Undo Clicking Background
+[2020.07.12-00.30.56:683][ 86]Cmd: TRANSACTION UNDO
+[2020.07.12-00.30.56:683][ 86]LogEditorTransaction: Undo Set Location
+[2020.07.12-00.30.57:948][160]LogEditorViewport: Clicking Background
+[2020.07.12-00.31.06:853][693]LogEditorViewport: Clicking Background
+[2020.07.12-00.31.11:370][963]LogEditorViewport: Clicking Background
+[2020.07.12-00.31.37:833][546]LogEditorViewport: Clicking Background
+[2020.07.12-00.31.40:902][729]LogEditorViewport: Clicking Background
+[2020.07.12-00.31.52:313][411]LogEditorViewport: Clicking Background
+[2020.07.12-00.32.06:829][280]LogEditorViewport: Clicking Background
+[2020.07.12-00.32.19:348][ 29]LogEditorViewport: Clicking Background
+[2020.07.12-00.32.49:678][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.07.12-00.32.49:766][490]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Level001_Auto2FE84F89045F994F6E0EE4E980D2E2D58.tmp' to '../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Autosaves/Game/Maps/Level001_Auto2.umap'
+[2020.07.12-00.32.49:767][490]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level001' took 0.102
+[2020.07.12-00.32.49:767][490]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.102
+[2020.07.12-00.35.00:372][253]Cmd: TRANSACTION UNDO
+[2020.07.12-00.35.00:372][253]LogEditorTransaction: Undo Edit Z
+[2020.07.12-00.35.11:322][899]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush6)
+[2020.07.12-00.35.27:355][858]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2020.07.12-00.35.27:356][858]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.07.12-00.35.27:530][867]Cmd: EDCALLBACK SURFPROPS
+[2020.07.12-00.35.30:264][ 30]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush5)
+[2020.07.12-00.35.30:881][ 66]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush5)
+[2020.07.12-00.35.31:014][ 73]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush5)
+[2020.07.12-00.35.32:788][179]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush5)
+[2020.07.12-00.38.18:031][369]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.12-00.38.18:038][369]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.12-00.38.38:210][507]LogEditorViewport: Clicking Background
+[2020.07.12-00.38.39:677][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level001" FILE="../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/Maps/Level001.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.12-00.38.39:688][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.07.12-00.38.39:768][594]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Saved/Level00148746AB243CA0D0F966A13B51AD06D4C.tmp' to '../../../../../../Unreal/Unreal_Projects/UUBP/TreasureCave/TCave001/Content/Maps/Level001.umap'
+[2020.07.12-00.38.39:794][594]AssetCheck: New page: Asset Save: Level001
+[2020.07.12-00.38.39:794][594]LogContentValidation: Display: Validating World /Game/Maps/Level001.Level001
+[2020.07.12-00.38.48:048][784]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.07.12-00.40.48:078][609]MapCheck: New page: Map Check
+[2020.07.12-00.40.48:091][609]Cmd: MAP REBUILD ALLVISIBLE
+[2020.07.12-00.40.48:091][609]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.07.12-00.40.48:098][609]LogWorld: UWorld::CleanupWorld for Level001, bSessionEnded=true, bCleanupResources=false
+[2020.07.12-00.40.48:103][609]LightingResults: New page: Lighting Build - Jul 11, 2020, 12:40:48 PM
+[2020.07.12-00.40.48:142][609]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.07.12-00.40.48:220][609]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.07.12-00.40.48:235][609]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.07.12-00.40.48:765][609]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.07.12-00.40.48:765][609]LogSwarmInterface: [TryOpenConnection] Local Process ID is 212
+[2020.07.12-00.40.55:421][609]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.07.12-00.40.55:439][609]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.07.12-00.40.55:439][609]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.07.12-00.40.55:439][609]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.07.12-00.40.55:439][609]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.07.12-00.40.55:439][609]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.07.12-00.40.55:612][609]LogEditorBuildUtils: Build time 0:07
+[2020.07.12-00.40.55:670][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.07.12-00.40.57:378][614]Job is a success!
+[2020.07.12-00.40.57:807][615]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2020.07.12-00.40.57:807][615]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.07.12-00.40.57:807][615]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2020.07.12-00.40.57:807][615]LogVolumetricLightmapImport:      Bricks at depth
+[2020.07.12-00.40.57:807][615]LogVolumetricLightmapImport:          0: 20.0% covering 100.0% of volume
+[2020.07.12-00.40.57:807][615]LogVolumetricLightmapImport:          1: 40.0% covering 3.1% of volume
+[2020.07.12-00.40.57:807][615]LogVolumetricLightmapImport:          2: 40.0% covering 0.0% of volume
+[2020.07.12-00.40.57:807][615]LogVolumetricLightmapImport:      Bricks in each level
+[2020.07.12-00.40.57:807][615]LogVolumetricLightmapImport:          Level001 			 5 bricks 	 100.0% (Persistent Level)
+[2020.07.12-00.40.57:904][615]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.07.12-00.40.57:904][615]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.07.12-00.40.57:904][615]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X128)
+[2020.07.12-00.40.57:904][615]Lightmass on DESKTOP-6S89NFO: 1.24 sec total, 84 ms importing, 10 ms setup, 48 ms photons, 1.06 sec processing, 0 ms extra exporting [36/36 mappings]. Threads: 7.47 sec total, 388 ms processing.
+[2020.07.12-00.40.57:905][615]LogStaticLightingSystem: Level001_BuiltData storing lightmap data for 9 meshes in 1 LightmapResourceClusters (9.0 Meshes per cluster).
+[2020.07.12-00.40.57:915][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.07.12-00.40.57:958][615]LogStaticLightingSystem: Illumination: 9.54 sec (20 ms encoding lightmaps, 7 ms encoding shadowmaps)
+[2020.07.12-00.40.57:958][615]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.0 MB streaming, 0.1 MB non-streaming), 2 textures
+[2020.07.12-00.40.57:958][615]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2020.07.12-00.40.58:427][615]DumpUnbuiltLightIteractions
+[2020.07.12-00.40.58:427][615]Lights with unbuilt interactions: 0
+[2020.07.12-00.40.58:427][615]
+[2020.07.12-00.40.58:427][615]Primitives with unbuilt interactions: 0
+[2020.07.12-00.40.58:470][616]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.07.12-00.40.58:470][616]MapCheck: New page: Level001 - Jul 11, 2020, 12:40:58 PM
+[2020.07.12-00.40.58:471][616]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.312ms to complete.
+[2020.07.12-00.45.34:117][440]LogTemp: Resetting audio stream to device id 
+[2020.07.12-00.45.34:164][440]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-00.45.34:165][440]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-00.45.37:204][449]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a288555c-fb67-4f83-957e-1bf70fb4b0ec}.
+[2020.07.12-00.45.37:204][449]LogTemp: Resetting audio stream to device id 
+[2020.07.12-00.45.37:233][449]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-00.45.37:233][449]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-03.45.40:266][455]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.07.12-03.45.40:429][455]LogTemp: Resetting audio stream to device id 
+[2020.07.12-03.45.40:541][455]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-03.45.40:541][455]LogAudioMixer: Display: 1: FrontRight
